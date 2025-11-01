@@ -1,0 +1,86 @@
+{"empresas": [
+    {
+        "paginaweb": "",
+        "direccion": "Monte eveerest ",
+        "provincia": "hablan raro ",
+        "condiciondeiva": "MONOTRIBUTISTA",
+        "actividad": "Te pregunta que mierda hiciste en el dia ",
+        "razonSocial": "Holis.sa",
+        "nombredefantasia": "Holis , como andas ? ",
+        "cuit": "123456789",
+        "aliasEmpresa": "Holis ",
+        "IB": "123456789",
+        "localidad": "China ",
+        "listafacturadecompras": [],
+        "telefono": "11111",
+        "correoElectronico": "",
+        "listafacturadeventas": [{
+            "tipo": "C",
+            "Numero de factura": 134,
+            "Fecha": "2024-12-16",
+            "sucursal": 12,
+            "Total": 100,
+            "nogravado": 100,
+            "Cuit": "1"
+        }]
+    },
+    {
+        "paginaweb": "",
+        "direccion": "Europa ",
+        "provincia": "parana",
+        "condiciondeiva": "EXCENTO",
+        "actividad": "No ganan un mundial ",
+        "razonSocial": "Holanda.sa",
+        "nombredefantasia": "Holanda nunca gano un mundial ",
+        "cuit": "5555",
+        "aliasEmpresa": "Holanda",
+        "IB": "555",
+        "localidad": "del oeste",
+        "listafacturadecompras": [
+            {
+                "tipo": "B",
+                "Iva 105": 0,
+                "Iva21": 0,
+                "nogravado": 120,
+                "neto21": 0,
+                "percepcionIVA": 0,
+                "Numero de factura": 12,
+                "Fecha": "2024-06-12",
+                "percepcionIB": 0,
+                "sucursal": 8,
+                "Total": 120,
+                "neto105": 0,
+                "Otros Impuestos": 0,
+                "Cuit": "11"
+            },
+            {
+                "tipo": "B",
+                "Iva 105": 0,
+                "Iva21": 21,
+                "nogravado": 0,
+                "neto21": 100,
+                "percepcionIVA": 0,
+                "Numero de factura": 123,
+                "Fecha": "2024-12-13",
+                "percepcionIB": 0,
+                "sucursal": 7,
+                "Total": 131,
+                "neto105": 0,
+                "Otros Impuestos": 10,
+                "Cuit": "11"
+            },
+            {
+                "tipo": "C",
+                "Numero de factura": 123,
+                "Fecha": "2024-06-12",
+                "sucursal": 3,
+                "Total": 120,
+                "nogravado": 120,
+                "Cuit": "11"
+            }
+        ],
+        "telefono": "",
+        "correoElectronico": "",
+        "listafacturadeventas": []
+    }
+]}
