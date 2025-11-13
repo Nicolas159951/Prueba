@@ -1,0 +1,36 @@
+{"empresas": [
+    {
+        "paginaweb": "",
+        "direccion": "Juan B justo 123",
+        "provincia": "Buenos Aires",
+        "condiciondeiva": "RESPONSABLE",
+        "actividad": "Vender Seguros",
+        "razonSocial": "Seguros.Sa",
+        "nombredefantasia": "Seguros Sancor",
+        "cuit": "15879364110",
+        "aliasEmpresa": "Seguros",
+        "IB": "15879364110",
+        "localidad": "Mar del Plata",
+        "listafacturadecompras": [],
+        "telefono": "",
+        "correoElectronico": "",
+        "listafacturadeventas": []
+    },
+    {
+        "paginaweb": "Generica",
+        "direccion": "Generica",
+        "provincia": "Generica",
+        "condiciondeiva": "RESPONSABLE",
+        "actividad": "Generica",
+        "razonSocial": "Generica",
+        "nombredefantasia": "Generica.sa",
+        "cuit": "12345678910",
+        "aliasEmpresa": "Generica",
+        "IB": "12345678910",
+        "localidad": "Generica",
+        "listafacturadecompras": [],
+        "telefono": "Generica",
+        "correoElectronico": "Generica",
+        "listafacturadeventas": []
+    }
+]}
